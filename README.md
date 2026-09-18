@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kumail%20Raza&fontSize=48&fontColor=ffffff&animation=twinkling&color=7dd3fc" width="100%" />
 
-<a href="https://github.com/kumailzs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Computer+Networking+for+Cybersecurity;Learning+Linux+%7C+Python+%7C+Nmap;Building+Cybersecurity+Fundamentals;Exploring+Penetration+Testing" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Computer+Networking+for+Cybersecurity;Next%3A+Linux+%2B+Bash+Scripting;Then%3A+Windows+%2B+Active+Directory;Python+%2B+Web+Fundamentals+%2B+JavaScript;Building+a+Pentesting+Foundation" alt="Typing SVG" />
 
 <br />
 
@@ -19,17 +16,17 @@
 ```ts
 const kumail = {
   title: "Cybersecurity Student",
-  stack: [
-    "Computer Networking",
-    "Linux / Parrot OS",
-    "Python",
-    "JavaScript",
-    "HTML/CSS",
-    "Git & GitHub",
-    "VS Code",
-    "Nmap",
-    "TryHackMe"
-  ],
+  stack: {
+    current: ["Computer Networking"],
+    next: ["Linux", "Bash Scripting"],
+    upcoming: [
+      "Windows",
+      "Active Directory Basics",
+      "Python",
+      "Web Fundamentals",
+      "JavaScript Basics"
+    ]
+  },
   launchedProjects: [],
   certifications: [],
   status: "Currently studying computer networking for cybersecurity",
@@ -39,30 +36,61 @@ const kumail = {
 
 ## Tech Stack
 
-### Languages
+### Networking
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Networking and Linux environment" />
 </p>
 
-### Frontend
+**Currently:** Computer Networking  
+**Focus:** OSI & TCP/IP, IP addressing, subnetting, DNS, DHCP, ARP, HTTP/HTTPS, ports & protocols, switching, routing, firewalls, NAT, TCP handshake, Packet Tracer and Wireshark.
+
+### Linux & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash" />
 </p>
 
-### Backend / Infra
+**Next:** Linux fundamentals → Bash scripting
+
+### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Backend and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=python,js" alt="Programming languages" />
 </p>
 
-### Dev Tools
+**Planned:** Python → JavaScript basics for web security
+
+### Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies" />
+</p>
+
+**Planned:** Web fundamentals → HTTP → HTML → Burp Suite → SQL basics → APIs → JavaScript basics
+
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 </p>
 
-### Cybersecurity
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Cybersecurity tools" />
-</p>
+## Learning Roadmap
+
+```text
+Computer Networking
+        ↓
+Linux + Bash Scripting
+        ↓
+Windows + Active Directory Basics
+        ↓
+Python
+        ↓
+Web Fundamentals + JavaScript Basics
+        ↓
+Core Security Concepts
+        ↓
+Cloud Basics
+        ↓
+Pentesting Foundation
+```
+
+The goal is to build strong fundamentals before moving deeper into penetration testing.
 
 ## GitHub Stats
 
